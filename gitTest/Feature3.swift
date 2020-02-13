@@ -1,5 +1,5 @@
 //
-//  Develop2.swift
+//  Feature3.swift
 //  gitTest
 //
 //  Created by EVA RUSH on 2/13/20.
@@ -8,6 +8,6 @@
 
 import Foundation
 
-class Develop2 {
+class Feature3 {
     
 }
